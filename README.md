@@ -1,0 +1,2 @@
+# allanime
+All Anime
