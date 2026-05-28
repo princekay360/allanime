@@ -2,6 +2,11 @@
 
 A fresh, mobile-first anime app foundation built with Expo + React Native.
 
+## Prerequisites
+
+- Node.js 20+
+- npm 10+
+
 ## Getting started
 
 ```bash
